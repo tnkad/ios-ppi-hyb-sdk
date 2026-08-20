@@ -240,4 +240,4 @@ TnkPpiHybSdk.shared.enableLogging(true)   // [TnkPpiHyb] 접두어로 콘솔 출
 | 헤더 숨김 등 매체 파라미터 | ✅ |
 | 플레이스먼트 뷰 (특정 광고만 노출) | ❌ 제공하지 않음 |
 
-문의: dev@tnkfactory.com
+문의: tech@tnkfactory.com
