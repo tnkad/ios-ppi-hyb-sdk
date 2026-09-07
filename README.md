@@ -7,6 +7,7 @@ TnkFactory 하이브리드 오퍼월 SDK 의 **배포 저장소**입니다.
 
 - 최소 지원: **iOS 14.0** (ATT 사용) · Swift 5.9
 - 샘플 코드: [tnkad/ios-ppi-hyb-sample](https://github.com/tnkad/ios-ppi-hyb-sample)
+- 릴리스 노트: https://tnkfactory.gitbook.io/sdk-docs/ios/changelog
 
 ---
 
@@ -40,7 +41,7 @@ import TnkPpiHyb
 
 let sdk = TnkPpiHybSdk.shared
 sdk.configure(appId: "발급받은-앱-아이디")
-sdk.setUserName("매체측-사용자-식별값")
+sdk.setUserName("개발사-사용자-식별값")
 sdk.applicationStarted()
 
 sdk.openOfferwall(from: self)
