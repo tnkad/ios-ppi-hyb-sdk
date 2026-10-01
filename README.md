@@ -5,7 +5,7 @@ TnkFactory 하이브리드 오퍼월 SDK 의 **배포 저장소**입니다.
 
 📖 **연동 가이드 전문: https://tnkfactory.gitbook.io/sdk-docs/ios**
 
-- 최소 지원: **iOS 14.0** (ATT 사용) · Swift 5.9
+- 최소 지원: **iOS 15.0** (ATT 사용) · Swift 5.9
 - 샘플 코드: [tnkad/ios-ppi-hyb-sample](https://github.com/tnkad/ios-ppi-hyb-sample)
 - 릴리스 노트: https://tnkfactory.gitbook.io/sdk-docs/ios/changelog
 
@@ -24,7 +24,7 @@ https://github.com/tnkad/ios-ppi-hyb-sdk
 ### CocoaPods
 
 ```ruby
-platform :ios, '14.0'
+platform :ios, '15.0'
 
 target 'YourApp' do
   use_frameworks!
