@@ -3,7 +3,7 @@
 //  Package.swift — TnkPpiHyb iOS SDK (매체사 배포용)
 //
 //  archive.sh 가 생성한 파일이다. 직접 수정하지 말 것.
-//  버전 1.0.6 · 생성 대상 zip: TnkPpiHyb.xcframework.zip
+//  버전 1.0.7 · 생성 대상 zip: TnkPpiHyb.xcframework.zip
 //
 import PackageDescription
 
@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TnkPpiHyb",
-            url: "https://github.com/tnkad/ios-ppi-hyb-sdk/releases/download/v1.0.6/TnkPpiHyb.xcframework.zip",
-            checksum: "c29ee0b60c3ea6cd3932b43c059af3de725a92f4c23a2ea6ceb31e6e73626e0d"
+            url: "https://github.com/tnkad/ios-ppi-hyb-sdk/releases/download/v1.0.7/TnkPpiHyb.xcframework.zip",
+            checksum: "c8c7a95c7c90ddf4c7ce8f1df6b2512527d378fdf7c795df6ae74e35376f3245"
         )
     ]
 )
